@@ -23,6 +23,8 @@ Como desenvolvedor de aplicações para web, você precisa construir uma aplica�
 			20200311235440-create-data_json.js
 ### Configuração de rotas e tratamento da API externa 
 	- src
+		- controller
+			JsonController.js
 		index.js
 		routs.js
 
